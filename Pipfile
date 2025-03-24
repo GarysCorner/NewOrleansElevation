@@ -13,6 +13,8 @@ boto3 = "*"
 shapely = "*"
 geoplot = "*"
 numpy = "*"
+lazrs = "*"
+laspy = {extras = ["lazrs"], version = "*"}
 
 [dev-packages]
 
