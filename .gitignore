@@ -1,4 +1,5 @@
-USGS_LPC_LA_UpperDeltaPlain_2017_LAS_2018/
 .ipynb_checkpoints/
 playground.ipynb
+datasets/*
+.env
 
