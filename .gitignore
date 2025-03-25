@@ -2,4 +2,5 @@
 playground.ipynb
 datasets/*
 .env
+output/*
 

@@ -15,6 +15,7 @@ geoplot = "*"
 numpy = "*"
 lazrs = "*"
 laspy = {extras = ["lazrs"], version = "*"}
+pyproj = "*"
 
 [dev-packages]
 
