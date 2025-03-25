@@ -16,6 +16,7 @@ numpy = "*"
 lazrs = "*"
 laspy = {extras = ["lazrs"], version = "*"}
 pyproj = "*"
+pyspark = "*"
 
 [dev-packages]
 
