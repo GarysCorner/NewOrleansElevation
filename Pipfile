@@ -17,6 +17,7 @@ lazrs = "*"
 laspy = {extras = ["lazrs"], version = "*"}
 pyproj = "*"
 pyspark = "*"
+ipython = "*"
 
 [dev-packages]
 
