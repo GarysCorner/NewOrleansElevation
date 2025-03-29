@@ -25,6 +25,7 @@ Datasets include publically availble shapefiles for New Orleans, and USGS Lidar 
 
 ### Outputs
 
+![New Orleans 100m Elevation Map](output/NewOrleans100m.jpg)
 
 You can download the raw data produced by ProcessLidar.ipynb from my requester pays S3 bucket s3://requesterpays.garyscorner.net/datasets/NewOrleansElevation/
 
