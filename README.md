@@ -19,7 +19,6 @@ I may also go back and compare elevations to official flood zone maps and see wh
 Datasets include publically availble shapefiles for New Orleans, and USGS Lidar data.
 
 * [LADOTD New Orleans LA Lidar 2021](https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/metadata/LA_2021GreaterNewOrleans_C22/LA_2021GNO_1_C22/reports/LADOTD_New_Orleans_Lidar_LidarMappingReport.pdf)
-* [Upper Delta Plain, LA Lidar](https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/metadata/LA_UpperDeltaPlain_2015/LA_UpperDeltaPlain_2017/reports/UpperDeltaPlainLA_Lidar_Project_Report.pdf)
 * [USGS Water Map](https://pubs.usgs.gov/of/1998/of98-805/lpdata/arcview/water.zip)
 * [Neighborhood Statistical Area](https://data.nola.gov/dataset/Neighborhood-Statistical-Area/exvn-jeh2/about_data)
 
