@@ -10,10 +10,6 @@ But ultimately the idea is to make elevation maps of New Orleans and some of its
 
 I may also go back and compare elevations to official flood zone maps and see where things dont align...
 
-![Spark Cluster](SparkMaster_Cluster.png)
-![AWS Spark Cluster](AWS_EC2_Cluster.png)
-
-
 ### Datasets
 
 Datasets include publically availble shapefiles for New Orleans, and USGS Lidar data.
@@ -29,3 +25,8 @@ Datasets include publically availble shapefiles for New Orleans, and USGS Lidar 
 You can download the raw data produced by ProcessLidar.ipynb from my requester pays S3 bucket s3://requesterpays.garyscorner.net/datasets/NewOrleansElevation/
 
 [How to download from a requester pays bucket](https://docs.aws.amazon.com/AmazonS3/latest/userguide/ObjectsinRequesterPaysBuckets.html)
+
+### Screencaps
+
+![Spark Cluster](SparkMaster_Cluster.png)
+![AWS Spark Cluster](AWS_EC2_Cluster.png)
