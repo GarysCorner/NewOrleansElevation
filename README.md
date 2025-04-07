@@ -22,7 +22,7 @@ Datasets include publically availble shapefiles for New Orleans, and USGS Lidar 
 
 ![New Orleans 10m Elevation Map](output/NewOrleans10m.jpg)
 
-You can download the raw data produced by ProcessLidar.ipynb from my requester pays S3 bucket s3://requesterpays.garyscorner.net/datasets/NewOrleansElevation/
+You can download the raw data produced by ProcessLidar.ipynb and PostProcessLidar.ipynb from my requester pays S3 bucket s3://requesterpays.garyscorner.net/datasets/NewOrleansElevation/
 
 [How to download from a requester pays bucket](https://docs.aws.amazon.com/AmazonS3/latest/userguide/ObjectsinRequesterPaysBuckets.html)
 
