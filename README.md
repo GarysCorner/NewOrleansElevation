@@ -54,6 +54,8 @@ I wrote the PySpark to run on my customized cluster, because its a lot cheaper t
 
 The functions I used to aggregate the data turned out to be garbage they did not scale well and there usage was shameful, however by the time I realized this it was clear that I could just pay Biff Bezos another few $$$ to get the reduced data, and that path was easier then rewriting the aggregation using NumPy or something. Its easy to forget that my time is still worth more then Biff Bezos' computers time even if I don't like paying the jerk.
 
+I also went a little overboard passing arguments between the functions plotFig and createMap, little embarrassing to see it now, I should go back and either to a kw_args style, or better createMaps should be part of a class.  Well see if that ever gets done I suspect once my poster is printed I'll be happy enough to put this project to bed.
+
 This project started out small, want eventually I just started it again from scratch, probably should have started a new repository, opps but hey Im happy with how it turned out.
 The NewOrleansPoster.png which you can find in my S3 bucket is optimized for printing online at FedEx (I just got a rescued an 8 week old puppy and leaving the house is impossible so I'll probably be paying another evil corpo to print this instead of a local business :(
 
