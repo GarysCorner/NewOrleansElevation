@@ -4,11 +4,11 @@
 
 ### Description
 
-This is a small project I made to familurize myself with some GeoSpatial tools...but then things got out of control.  Now its a project that utilizes PySpark to reduce huge amounts of LIDAR data.  
+This is a small project I made to familurize myself with some GeoSpatial tools...but then things got out of control.  Now its a project that utilizes PySpark to reduce huge amounts of LiDAR data.  
 
-But ultimately the idea is to make elevation maps of New Orleans and some of its neighborhoods in a way the highlights positions relative to 0 altitude to give a good idea of what happens during flood, which way water flows and if you are above or below the water level.
+But ultimately the idea is to make elevation maps of New Orleans and some of its neighborhoods in a way thats looks cool and is useful when flooding starts.  Also I wanted a pretty poster for my wall.
 
-I may also go back and compare elevations to official flood zone maps and see where things dont align...
+I may also go back and compare elevations to official flood zone maps and see where things dont align, but that would be a different project.
 
 ### Datasets
 
