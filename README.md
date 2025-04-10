@@ -43,9 +43,9 @@ You can download the raw data produced by ProcessLidar.ipynb and PostProcessLida
 
 ### Screencaps
 
-![Spark Cluster](SparkMaster_Cluster.png)
-![AWS Spark Cluster](AWS_EC2_Cluster.png)
-![Spark Worker htop](SparkWorker_htop.png)
+![Spark Cluster](SparkMaster_Cluster.jpg)
+![AWS Spark Cluster](AWS_EC2_Cluster.jpg)
+![Spark Worker htop](SparkWorker_htop.jpg)
 
 
 ### Comments
